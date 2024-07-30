@@ -1,2 +1,2 @@
-# network-automation
-Network Automation
+# network-programming
+Network Programming
